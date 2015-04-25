@@ -2,7 +2,8 @@
   "name": "xp-referral",
   "license": "BSD-3-Clause",
   "version": "0.8.0",
-  "description": "This mixin is used to add referral capabilities to an element",
+  "description": "This mixin is used to add referral capabilities to an element.",
+  "homepage": "http://www.expandjs.com/elements/xp-referral",
   "authors": [
     "Giuliano Rullo <g.rullo@expandjs.com>",
     "Maurizio Stefàno <m.stefano@expandjs.com>",
