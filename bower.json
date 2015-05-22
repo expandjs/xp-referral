@@ -1,7 +1,7 @@
 {
   "name": "xp-referral",
   "license": "BSD-3-Clause",
-  "version": "0.8.9",
+  "version": "0.8.10",
   "description": "A mixin used to add self referencing capabilities to an element",
   "homepage": "http://expandjs.com/elements/xp-referral",
   "authors": [
