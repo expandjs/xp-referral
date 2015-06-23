@@ -1,3 +1,3 @@
 # xp-referral
 
-See the [`documentation page`](http://expandjs.com/elements/xp-referral) for more information.
+This repository **is deprecated**. Use [`xp-referral-behavior`](https://github.com/expandjs/xp-referral-behavior) instead.
